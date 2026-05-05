@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4a4af550.css",
-    "main.js": "/static/js/main.467ef466.js",
+    "main.js": "/static/js/main.a8f13d2f.js",
     "static/js/453.c980083f.chunk.js": "/static/js/453.c980083f.chunk.js",
     "static/media/avatar_picture.jpg": "/static/media/avatar_picture.4f2b76159ccb20f1075e.jpg",
+    "static/media/spellstorm_1.png": "/static/media/spellstorm_1.6cafe2965129db2c197b.png",
+    "static/media/spellstorm_2.png": "/static/media/spellstorm_2.701242045d971ab44d96.png",
     "static/media/new-bg-dark.png": "/static/media/new-bg-dark.b5ac86cf32cd7506e9bd.png",
     "static/media/image1_legacy.png": "/static/media/image1_legacy.e60aed25eed352cc983e.png",
     "static/media/new-bg-light.png": "/static/media/new-bg-light.162fc672dd1b5bf7a568.png",
     "static/media/image2_legacy.png": "/static/media/image2_legacy.722f65de4d10d2aef220.png",
+    "static/media/spellstorm_3.png": "/static/media/spellstorm_3.ac9d3f709f2b4ad84e63.png",
+    "static/media/spellstorm_4.png": "/static/media/spellstorm_4.6aed2ecef6d89d961ebb.png",
     "static/media/image4_legacy.png": "/static/media/image4_legacy.b624da72f430eb8bb6e1.png",
     "static/media/image3_legacy.png": "/static/media/image3_legacy.a7cd386052159120d0e8.png",
     "static/media/image1_damilor.png": "/static/media/image1_damilor.3e4fdae8c76543ac4406.png",
@@ -16,11 +20,11 @@
     "static/media/image3_damilor.png": "/static/media/image3_damilor.73677315c1d01a6ad922.png",
     "index.html": "/index.html",
     "main.4a4af550.css.map": "/static/css/main.4a4af550.css.map",
-    "main.467ef466.js.map": "/static/js/main.467ef466.js.map",
+    "main.a8f13d2f.js.map": "/static/js/main.a8f13d2f.js.map",
     "453.c980083f.chunk.js.map": "/static/js/453.c980083f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4af550.css",
-    "static/js/main.467ef466.js"
+    "static/js/main.a8f13d2f.js"
   ]
 }
